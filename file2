@@ -1,0 +1,5 @@
+mkdir dir1
+cd dir1
+vi file2
+git add file2
+git commit -m " msg "
